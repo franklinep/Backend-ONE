@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "Matrix",
+    "FechaDeLanzamiento": 1993,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 60
+  },
+  {
+    "Title": "Transformer",
+    "FechaDeLanzamiento": 2017,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 78
+  },
+  {
+    "Title": "Top Gun",
+    "FechaDeLanzamiento": 1986,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 109
+  }
+]
